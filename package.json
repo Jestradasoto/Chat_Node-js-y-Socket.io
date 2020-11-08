@@ -1,0 +1,26 @@
+{
+  "name": "Chat_Node-js-y-Socket.io",
+  "version": "1.0.0",
+  "description": "Creación de un chat usando Node-js y Socket.io\r Integrante 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start_dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jestradasoto/Chat_Node-js-y-Socket.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jestradasoto/Chat_Node-js-y-Socket.io/issues"
+  },
+  "homepage": "https://github.com/Jestradasoto/Chat_Node-js-y-Socket.io#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "socket.io": "^3.0.0"
+  }
+}
